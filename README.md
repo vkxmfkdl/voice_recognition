@@ -16,7 +16,10 @@ https://webnautes.tistory.com/1247 참조
 
 # 실행화면
 
-1) 분석결과1
+-메인페이지-
+<img src="https://user-images.githubusercontent.com/37204852/79060111-2e421500-7cbc-11ea-8d7b-47c806cc2bdf.png"/>
+
+-분석결과 1-
 <img src="https://user-images.githubusercontent.com/37204852/79059952-c939ef80-7cba-11ea-83be-9e413a0d0e89.png"/>
 
 ## 실행법
