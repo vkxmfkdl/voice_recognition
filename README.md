@@ -28,6 +28,10 @@ https://webnautes.tistory.com/1247 참조
 
 <img src="https://user-images.githubusercontent.com/37204852/79060239-cc82aa80-7cbd-11ea-8b9a-f7c97c168342.png"/>
 
+<b> 분석결과 2</b>
+
+<img src="https://user-images.githubusercontent.com/37204852/79060259-0358c080-7cbe-11ea-9f09-9d84485a595c.png"/>
+
 ## 실행법
 
 윈도우 환경에서 작성되었습니다.
