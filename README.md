@@ -14,6 +14,11 @@
 
 https://webnautes.tistory.com/1247 참조
 
+# 실행화면
+
+1) 분석결과1
+<img src="https://user-images.githubusercontent.com/37204852/79059952-c939ef80-7cba-11ea-83be-9e413a0d0e89.png"/>
+
 ## 실행법
 
 윈도우 환경에서 작성되었습니다.
