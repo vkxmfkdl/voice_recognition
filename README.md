@@ -20,6 +20,10 @@ https://webnautes.tistory.com/1247 참조
 
 <img src="https://user-images.githubusercontent.com/37204852/79060111-2e421500-7cbc-11ea-8d7b-47c806cc2bdf.png"/>
 
+<b>회의기록, 감성분석</b>
+
+<img src="https://user-images.githubusercontent.com/37204852/79060202-2df64980-7cbd-11ea-8f40-7404b85c1416.png"/>
+
 <b> 분석결과</b>
 
 <img src="https://user-images.githubusercontent.com/37204852/79059952-c939ef80-7cba-11ea-83be-9e413a0d0e89.png"/>
