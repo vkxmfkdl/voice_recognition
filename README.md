@@ -24,9 +24,9 @@ https://webnautes.tistory.com/1247 참조
 
 <img src="https://user-images.githubusercontent.com/37204852/79060202-2df64980-7cbd-11ea-8f40-7404b85c1416.png"/>
 
-<b> 분석결과</b>
+<b> 분석결과 1</b>
 
-<img src="https://user-images.githubusercontent.com/37204852/79059952-c939ef80-7cba-11ea-83be-9e413a0d0e89.png"/>
+<img src="https://user-images.githubusercontent.com/37204852/79060239-cc82aa80-7cbd-11ea-8b9a-f7c97c168342.png"/>
 
 ## 실행법
 
