@@ -47,4 +47,3 @@ https://webnautes.tistory.com/1247 참조
 5. 음성분석을 하기 위해서는 uploadproject 폴더로 들어가 `python manage.py runserver` 명령어를 실행하면 됩니다.
 
 6. 웹 페이지 접속 기본 url은 localhost:8000 입니다. 이는 실행하는 사람의 환경에 따라 다를 수도 있습니다.
-
