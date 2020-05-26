@@ -38,7 +38,7 @@ https://webnautes.tistory.com/1247 참조
 
 1. 아나콘다3 파이썬이 설치되어 있어야합니다.
 
-2. `conda env create -f environment.yml` 명령어로 가상환경을 설치합니다
+2. `conda env create -f requirements.yml` 명령어로 가상환경을 설치합니다
 
 3. `conda activate voiceenv` 명령어로 가상환경을 실행시킵니다.
 
