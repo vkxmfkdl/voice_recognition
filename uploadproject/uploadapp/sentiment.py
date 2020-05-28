@@ -8,7 +8,6 @@ from konlpy.tag import Okt
 import numpy as np
 import nltk
 from . import read_analysis
-############전역변수#######################
 
 class sentiment:
     def __init__(self):
@@ -20,9 +19,9 @@ class sentiment:
         self.okt = Okt()
         self.selected_words=[]
         self.list = []
-###################################
-################# 감성 분석 모델 관련 함수##################
-
+#
+#  (1) 감성 분석 모델 관련 함수
+#
     def tokenize(self, doc):
         # norm은 정규화, stem은 근어로 표시하기를 나타냄
         return ['/'.join(t) for t in self.okt.pos(doc, norm=True, stem=True)]
@@ -45,13 +44,10 @@ class sentiment:
                 max_index=index
             index+=1
         if max_index==0:
-            # print("[{}]는 {:.2f}% 확률로 부정 리뷰이지 않을까 추측해봅니다.^^\n".format(opinion, max_value * 100))
             state = "부정"
         elif max_index==1:
-            # print("[{}]는 {:.2f}% 확률로 중립 리뷰이지 않을까 추측해봅니다.^^\n".format(opinion, max_value * 100))
             state = "중립"
         elif max_index==2:
-            # print("[{}]는 {:.2f}% 확률로 긍정 리뷰이지 않을까 추측해봅니다.^^\n".format(opinion, max_value * 100))
             state = "긍정"
         return state, int(max_value*100)
 

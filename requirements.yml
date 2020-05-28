@@ -31,7 +31,6 @@ dependencies:
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markdown=3.1.1=py_0
-  - mkl=2019.5=281
   - mkl-service=2.3.0=py36hfa6e2cd_0
   - msys2-conda-epoch=20160418=1
   - nltk=3.4.4=py_0
