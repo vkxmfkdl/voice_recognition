@@ -48,5 +48,6 @@ https://webnautes.tistory.com/1247 참조
 
 6. 웹 페이지 접속 기본 url은 localhost:8000 입니다. 이는 실행하는 사람의 환경에 따라 다를 수도 있습니다.
 
+### 음성인식api 없이 실행하기
 * 음성인식api를 사용하지 않고 테스트하고자 하시면  voice_recognition\uploadproject\media 에 오늘 날짜로 폴더를 만들고 
   다른 폴더에 있는 .json파일을 복사하시면 테스트할 수 있습니다.
